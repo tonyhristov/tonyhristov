@@ -10,7 +10,19 @@
 
 ## Stats
 
-<a href="https://github.com/tonyhristov">
+<div >
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhristov&theme=nightowl" />
+</div>
+
+<div style="margin-bottom: 5px">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&show_icons=true&theme=nightowl" />
+</div>
+
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonyhristov&theme=nightowl" />
+</div>
+
+<!-- <a href="https://github.com/tonyhristov">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhristov&theme=nightowl" />
 </a>
 
@@ -20,4 +32,4 @@
 
 <a href="https://github.com/tonyhristov">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonyhristov&theme=nightowl" />
-</a>
+</a> -->
