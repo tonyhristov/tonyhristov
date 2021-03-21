@@ -4,7 +4,9 @@
 
 *I am passionate about learning new things every day, trying out new technologies, and developing a large variety of skills.*
 
-*I studied software engineering at Software University(SoftUni). I graduated from the Full-Stack path with PHP and JavaScript.*
+*I studied software engineering at Software University(SoftUni).*
+
+*I graduated from the Full-Stack path with PHP and JavaScript.*
 
 ## Stats
 
