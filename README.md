@@ -6,7 +6,7 @@
 
 *I studied software engineering at Software University(SoftUni).*
 
-*I graduated from the Full-Stack path with PHP and JavaScript.*
+*I have Graduated from the Full-Stack path with PHP and JavaScript.*
 
 ## Stats
 
@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/tonyhristov">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&show_icons=true&theme=nightowl" />
+  <img align="left" style="margin-bottom: 5px" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 
 <a href="https://github.com/tonyhristov">
