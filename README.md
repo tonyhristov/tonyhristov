@@ -4,6 +4,8 @@
 
 *I am passionate about learning new things every day, trying out new technologies, and developing a large variety of skills.*
 
+*My vastest interest is the development of web applications, from the Back-End to the Front-End.*
+
 *I studied software engineering at Software University(SoftUni).*
 
 *I have Graduated from the Full-Stack path with PHP and JavaScript.*
