@@ -25,5 +25,5 @@
 </div>
 
 <div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=tonyhristow&theme=nightowl&hide_border=true" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=tonyhristov&theme=nightowl&hide_border=true" />
 </div>
