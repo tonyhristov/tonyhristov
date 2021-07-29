@@ -23,3 +23,7 @@
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonyhristov&theme=nightowl" />
 </div>
+
+<div>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=tonyhristow&theme=nightowl&hide_border=true" />
+</div>
