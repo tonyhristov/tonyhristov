@@ -1,29 +1,43 @@
-### Hi 👋
+### Hi there, I'm Antonio Hristov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## About Me
+#### You can find me on:
 
-*I am passionate about learning new things every day, trying out new technologies, and developing a large variety of skills.*
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tonyhristov)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tonyhristov/)
 
-*My vastest interest is the development of web applications, from the Back-End to the Front-End.*
+### About Me ![](https://visitor-badge.glitch.me/badge?page_id=tonyhristov)
 
-*I studied software engineering at Software University(SoftUni).*
+I am a software developer. I love programming, reading books, learning new skills, and watching movies. I like to do things that are related to the IT field.
 
-*I have Graduated from the Full-Stack path with PHP and JavaScript.*
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=790b7611ee43deff7d51e8d7c8941592a0f4b8f1d0465615&rid=giphy.gif&ct=g" width="408" height="318" />
 
-## Stats
+### Interest and Personal Stuff
 
-<div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhristov&theme=nightowl" />
-</div>
+- 👨🏻‍💻 I'm currently working for a Bulgarian company that deals with website scanning, data processing, and delivery.
 
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&show_icons=true&theme=nightowl" />
-</div>
+- 📚 Education
 
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonyhristov&theme=nightowl" />
-</div>
+  - Studies Business Informatics and Communications at University of National and World Economy(UNWE)
 
-<div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=tonyhristov&theme=nightowl&hide_border=true" />
-</div>
+  - Studied Software Engineering at Software University(SoftUni).
+
+  - Graduated from National Vocational School for Precision Engineering and Optics "M.V.Lomonosov"
+
+- 💸 I have an interest in cryptocurrencies, cars, and gym exercises in general;
+
+- 💡 Fortis Fortuna Adiuvat
+
+
+<br>
+
+### 📈 My GitHub Stats
+
+<p>
+  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=tonyhristov&theme=nightowl&hide_border=true" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonyhristov&langs_count=6&theme=nightowl&hide_border=true" />
+</p>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&hide_border=true&show_icons=true&theme=nightowl" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyhristov&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=nightowl"/>
+</p>
