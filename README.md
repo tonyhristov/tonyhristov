@@ -34,8 +34,9 @@ I am a software developer. I love programming, reading books, learning new skill
 
 <p>
   <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=tonyhristov&theme=nightowl&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&hide_border=true&show_icons=true&theme=nightowl" />
-</p>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonyhristov&count_private=true&hide_border=true&show_icons=true&theme=nightowl" />
+   -->
+ </p>
 
 <!-- <p> -->
  <!--   <img  height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tonyhristov&langs_count=6&theme=nightowl&hide_border=true" /> -->
