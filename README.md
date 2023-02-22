@@ -13,7 +13,7 @@ I am a software developer. I love programming, reading books, learning new skill
 
 ### Interest and Personal Stuff
 
-- 👨🏻‍💻 I'm currently working for a Bulgarian company that deals with website scanning, data processing, and delivery.
+- 👨🏻‍💻 Currently, I am working as a Front-end Game Developer at Evolution. Evolution is a leading B2B solution provider for casino operators offering a live casino, live game shows, slots, and more
 
 - 📚 Education
 
