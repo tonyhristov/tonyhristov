@@ -3,7 +3,6 @@
 #### You can find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tonyhristov)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tonyhristov/)
 
 ### About Me ![](https://visitor-badge.glitch.me/badge?page_id=tonyhristov) [![wakatime](https://wakatime.com/badge/user/6368a9aa-0b23-4f07-b5fd-c2a355f06760.svg)](https://wakatime.com/@6368a9aa-0b23-4f07-b5fd-c2a355f06760)
 
